@@ -1,0 +1,42 @@
+C:\Users\Eric Sprauve\AppData\Local\Temporary Projects\ImaginationBox\bin\Debug\ImaginationBox.exe
+C:\Users\Eric Sprauve\AppData\Local\Temporary Projects\ImaginationBox\bin\Debug\ImaginationBox.pdb
+C:\Users\Eric Sprauve\AppData\Local\Temporary Projects\ImaginationBox\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Eric Sprauve\AppData\Local\Temporary Projects\ImaginationBox\obj\x86\Debug\ImaginationBox.Properties.Resources.resources
+C:\Users\Eric Sprauve\AppData\Local\Temporary Projects\ImaginationBox\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Eric Sprauve\AppData\Local\Temporary Projects\ImaginationBox\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Eric Sprauve\AppData\Local\Temporary Projects\ImaginationBox\obj\x86\Debug\ImaginationBox.exe
+C:\Users\Eric Sprauve\AppData\Local\Temporary Projects\ImaginationBox\obj\x86\Debug\ImaginationBox.pdb
+C:\Users\Eric Sprauve\Projects\ImaginationBox\ImaginationBox\obj\x86\Debug\ImaginationBox.exe
+C:\Users\Eric Sprauve\Projects\ImaginationBox\ImaginationBox\obj\x86\Debug\ImaginationBox.pdb
+C:\Users\Eric Sprauve\Projects\ImaginationBox\ImaginationBox\bin\Debug\ImaginationBox.exe
+C:\Users\Eric Sprauve\Projects\ImaginationBox\ImaginationBox\bin\Debug\ImaginationBox.pdb
+C:\Users\Eric Sprauve\Projects\ImaginationBox\ImaginationBox\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Eric Sprauve\Projects\ImaginationBox\ImaginationBox\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Eric Sprauve\Projects\ImaginationBox\ImaginationBox\obj\x86\Debug\ImaginationBox.Properties.Resources.resources
+C:\Users\Eric Sprauve\Projects\ImaginationBox\ImaginationBox\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Eric Sprauve\Projects\ImaginationBox\ImaginationBox\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Eric Sprauve\Projects\ImaginationBox\ImaginationBox\obj\x86\Debug\ImaginationBox.Form1.resources
+C:\Users\Boris\Documents\My Dropbox\ImaginationBox\ImaginationBox\obj\x86\Debug\ImaginationBox.exe
+C:\Users\Boris\Documents\My Dropbox\ImaginationBox\ImaginationBox\obj\x86\Debug\ImaginationBox.pdb
+C:\Users\Boris\Documents\My Dropbox\ImaginationBox\ImaginationBox\bin\Debug\ImaginationBox.exe
+C:\Users\Boris\Documents\My Dropbox\ImaginationBox\ImaginationBox\bin\Debug\ImaginationBox.pdb
+C:\Users\Boris\Documents\My Dropbox\ImaginationBox\ImaginationBox\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Boris\Documents\My Dropbox\ImaginationBox\ImaginationBox\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Boris\Documents\My Dropbox\ImaginationBox\ImaginationBox\obj\x86\Debug\ImaginationBox.Form1.resources
+C:\Users\Boris\Documents\My Dropbox\ImaginationBox\ImaginationBox\obj\x86\Debug\ImaginationBox.Properties.Resources.resources
+C:\Users\Boris\Documents\My Dropbox\ImaginationBox\ImaginationBox\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Boris\Documents\My Dropbox\ImaginationBox\ImaginationBox\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Boris\Documents\My Dropbox\ImaginationBox\ImaginationBox\obj\x86\Debug\ImaginationBox.ResultBox.resources
+C:\Users\Eric Sprauve\Documents\My Dropbox\ImaginationBox\ImaginationBox\obj\x86\Debug\ImaginationBox.exe
+C:\Users\Eric Sprauve\Documents\My Dropbox\ImaginationBox\ImaginationBox\obj\x86\Debug\ImaginationBox.pdb
+C:\Users\Eric Sprauve\Documents\My Dropbox\ImaginationBox\ImaginationBox\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Eric Sprauve\Documents\My Dropbox\ImaginationBox\ImaginationBox\obj\x86\Debug\ImaginationBox.Form1.resources
+C:\Users\Eric Sprauve\Documents\My Dropbox\ImaginationBox\ImaginationBox\obj\x86\Debug\ImaginationBox.Properties.Resources.resources
+C:\Users\Eric Sprauve\Documents\My Dropbox\ImaginationBox\ImaginationBox\obj\x86\Debug\ImaginationBox.ResultBox.resources
+C:\Users\Eric Sprauve\Documents\My Dropbox\ImaginationBox\ImaginationBox\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Eric Sprauve\Documents\My Dropbox\ImaginationBox\ImaginationBox\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Eric Sprauve\Documents\My Dropbox\ImaginationBox\ImaginationBox\bin\Debug\ImaginationBox.exe
+C:\Users\Eric Sprauve\Documents\My Dropbox\ImaginationBox\ImaginationBox\bin\Debug\ImaginationBox.pdb
+C:\Users\Eric Sprauve\Documents\My Dropbox\ImaginationBox\ImaginationBox\bin\Debug\HtmlAgilityPack.dll
+C:\Users\btaratutin\Documents\My Dropbox\ImaginationBox\ImaginationBox\obj\x86\Debug\ImaginationBox.exe
+C:\Users\btaratutin\Documents\My Dropbox\ImaginationBox\ImaginationBox\obj\x86\Debug\ImaginationBox.pdb

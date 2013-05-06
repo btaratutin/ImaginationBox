@@ -1,0 +1,15 @@
+C:\Users\Boris\Documents\My Dropbox\ImaginationBox\ImaginationBox\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Boris\Documents\My Dropbox\ImaginationBox\ImaginationBox\obj\x86\Release\ImaginationBox.Form1.resources
+C:\Users\Boris\Documents\My Dropbox\ImaginationBox\ImaginationBox\obj\x86\Release\ImaginationBox.Properties.Resources.resources
+C:\Users\Boris\Documents\My Dropbox\ImaginationBox\ImaginationBox\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Boris\Documents\My Dropbox\ImaginationBox\ImaginationBox\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Boris\Documents\My Dropbox\ImaginationBox\ImaginationBox\bin\Release\ImaginationBox.exe
+C:\Users\Boris\Documents\My Dropbox\ImaginationBox\ImaginationBox\bin\Release\ImaginationBox.pdb
+C:\Users\Boris\Documents\My Dropbox\ImaginationBox\ImaginationBox\bin\Release\HtmlAgilityPack.dll
+C:\Users\Boris\Documents\My Dropbox\ImaginationBox\ImaginationBox\obj\x86\Release\ImaginationBox.exe
+C:\Users\Boris\Documents\My Dropbox\ImaginationBox\ImaginationBox\obj\x86\Release\ImaginationBox.pdb
+C:\Users\Boris\Documents\My Dropbox\ImaginationBox\ImaginationBox\obj\x86\Release\ImaginationBox.ResultBox.resources
+C:\Users\Boris\Documents\My Dropbox\ImaginationBox\ImaginationBox\bin\Release\MyUtilities.dll
+C:\Users\Boris\Documents\My Dropbox\ImaginationBox\ImaginationBox\bin\Release\MyUtilities.pdb
+C:\Users\btaratutin\Documents\My Dropbox\ImaginationBox\ImaginationBox\obj\x86\Release\ImaginationBox.exe
+C:\Users\btaratutin\Documents\My Dropbox\ImaginationBox\ImaginationBox\obj\x86\Release\ImaginationBox.pdb
